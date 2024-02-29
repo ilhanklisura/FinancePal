@@ -17,11 +17,34 @@ Welcome to 'FinancePal', an intuitive Expense Management System designed to simp
 
 ## Getting Started
 
-Clone the repository:
+Follow these steps to set up and run the FinancePal project on Android Studio:
 
-```bash
-git clone https://github.com/your-username/financepal.git
-```
+1. **Clone the repository:**
+
+    ```bash
+    git clone https://github.com/your-username/financepal.git
+    ```
+
+2. **Open Android Studio:**
+
+    - Launch Android Studio on your machine.
+
+3. **Import the Project:**
+
+    - In Android Studio, click on "File" in the top menu.
+    - Select "Open" and navigate to the directory where you cloned the FinancePal repository.
+    - Choose the `financepal` directory and click "OK" to import the project.
+
+4. **Build and Run:**
+
+    - Once the project is loaded, wait for Android Studio to sync and build the project.
+    - After the build is successful, click on the green "Run" button (or press `Shift + F10`) to launch the FinancePal app on an emulator or connected device.
+
+5. **Explore FinancePal:**
+
+    - The app should now be running, allowing you to explore the expense management features.
+
+If you encounter any issues or have questions, feel free to open an [issue on GitHub](link-to-issues). Happy coding!
 
 ## Contributing
 
