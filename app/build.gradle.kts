@@ -51,7 +51,6 @@ android {
 }
 
 dependencies {
-
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)
     implementation(libs.androidx.activity.compose)
@@ -59,7 +58,7 @@ dependencies {
     implementation(libs.androidx.ui)
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
-    implementation(libs.androidx.material3)
+    implementation("androidx.compose.material3:material3:1.1.1") // Ensure this is the only material3 dependency
     implementation("androidx.constraintlayout:constraintlayout-compose:1.0.1")
     implementation(libs.androidx.room.common)
     implementation(libs.androidx.constraintlayout)
