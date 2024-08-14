@@ -49,13 +49,3 @@ If you encounter any issues or have questions, feel free to open an [issue on Gi
 ## Contributing
 
 We welcome contributions from the community! If you'd like to contribute, please follow our [contribution guidelines](link-to-contributing.md).
-
-## License
-
-This project is licensed under the MIT License.
-
-## Support
-
-For any issues or questions, please open an [issue on GitHub](link-to-issues).
-
-Thank you for choosing FinancePal for your expense management needs. We trust this tool will empower you to gain better control over your finances. If you have any feedback or suggestions, feel free to reach out. Happy budgeting!
